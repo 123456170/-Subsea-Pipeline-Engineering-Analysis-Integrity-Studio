@@ -1,0 +1,9 @@
+streamlit
+numpy
+scipy
+pandas
+sympy
+plotly
+pillow
+pytest
+fipy
